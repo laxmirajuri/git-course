@@ -2,7 +2,11 @@ add and remove user
  change the roles
 
  manage the database
+<<<<<<< HEAD
  closing the oracle database connection
+=======
+ closing the mysql database connection
+>>>>>>> c655dc3dce4acc5949a0950671be920276a00da3
 
  change1
  change2 in harsh's database
